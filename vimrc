@@ -3,7 +3,7 @@ call pathogen#helptags()
 
 filetype indent plugin on
 syntax on
-colors delek 
+colors solarized
 highlight NonText guifg=white   " Match the tildes to your background
 highlight! link FoldColumn Normal " Make it the background colour
 set laststatus=0                  " No statusbar
